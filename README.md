@@ -56,6 +56,21 @@ This repo holds the research projects of our lab.
             </div>
             <div class="spanner"></div>
         </div>
+	
+  <h2></h2>	
+	<div><img src="./resources/paper_icon/ECCV_2022_M3PT.png" width=500 height=300 />
+            <div><strong>Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion</strong><br>
+		Zhiqiang Yan*, Xiang Li*, Kun Wang, Zhenyu Zhang, Jun Li#, Jian Yang#<br>
+                in ECCV, 2022<br>
+                <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610372.pdf">[Paper]</a>
+                <a href="./resources/bibtex/ECCV_2022_M3PT.txt">[BibTex]</a>
+                <br>
+                <alert>
+        M3PT is the first multi-model masked pretraining framework for monocular panoramic depth completion which significantly improves the performance.
+		</alert>
+            </div>
+            <div class="spanner"></div>
+        </div>
 
   <h2></h2>
   	<div><img src="./resources/paper_icon/arXiv_2022_UMMAE.png" width=500 height=300 />
