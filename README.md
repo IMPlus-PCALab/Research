@@ -5,7 +5,7 @@ This repo holds the research projects of our lab.
 
 <div>
   <h2>2022</h2>
-	<div><img src="./resources/paper_icon/NeurIPS_2022_RM.png" width=200 height=150 />
+	<div><img src="./resources/paper_icon/NeurIPS_2022_RM.png" width=400 height=300 />
             <div><strong>RecursiveMix: Mixed Learning with History</strong><br>
 		Lingfeng Yang*, Xiang Li*, Borui Zhao, Renjie Song, Jian Yang#<br>
                 in NeurIPS, 2022<br>
