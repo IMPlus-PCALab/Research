@@ -111,7 +111,7 @@ This repo holds the research projects of our lab.
   <h2></h2>	
 	<div><img class="paper" src="./resources/paper_icon/AAAI_2022_KD.png"  width=500 height=300 />
             <div><strong>Knowledge Distillation for Object Detection via Rank Mimicking and Prediction-guided Feature Imitation</strong><br>
-		Gang Li*, Xiang Li*, Yujie Wang, Shanshan Zhang#, Yichao Wu, Ding Liang
+		Gang Li*, Xiang Li*, Yujie Wang, Shanshan Zhang#, Yichao Wu, Ding Liang<br>
                 in AAAI, 2022<br>
                 <!-- <a href="https://arxiv.org/pdf/2106.13797.pdf">[Paper]</a> -->
                 <a href="https://arxiv.org/pdf/2112.04840.pdf">[Paper]</a>
