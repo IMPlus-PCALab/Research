@@ -1,5 +1,5 @@
 # Research
-This repo holds the research projects of our lab.
+This repo holds the most research projects of our lab.
 (* indicates equal contribution, # corresponding author)
 
 
