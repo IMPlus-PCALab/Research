@@ -1,0 +1,6 @@
+@InProceedings{yan2022m3pt,
+  title={Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion},
+  author={Yan, Zhiqiang and Li, Xiang and Wang, Kun and Zhang, Zhenyu and Li, Jun and Yang, Jian},
+  booktitle={ECCV},
+  year={2022}
+}
