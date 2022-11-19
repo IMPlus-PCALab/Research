@@ -58,7 +58,7 @@ This repo holds the research projects of our lab.
         </div>
 	
   <h2></h2>	
-	<div><img src="./resources/paper_icon/ECCV_2022_M3PT.png" width=500 height=300 />
+	<div><img src="./resources/paper_icon/ECCV_2022_M3PT.png" width=700 height=300 />
             <div><strong>Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion</strong><br>
 		Zhiqiang Yan*, Xiang Li*, Kun Wang, Zhenyu Zhang, Jun Li#, Jian Yang#<br>
                 in ECCV, 2022<br>
