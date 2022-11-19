@@ -73,7 +73,7 @@ This repo holds the research projects of our lab.
         </div>
 
   <h2></h2>
-  	<div><img src="./resources/paper_icon/arXiv_2022_UMMAE.png" width=500 height=500 />
+  	<div><img src="./resources/paper_icon/arXiv_2022_UMMAE.png" width=500 height=400 />
             <div><strong>Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality</strong><br>
 		Xiang Li, Wenhai Wang, Lingfeng Yang, Jian Yang#<br>
                 in arXiv, 2022<br>
