@@ -4,6 +4,24 @@ This repo holds the most research projects of our lab.
 
 
 <div>
+  <h2>2023</h2>
+	<div><img src="./resources/paper_icon/AAAI_2023_CTKD.png" width=500 height=216 />
+            <div><strong>Curriculum Temperature for Knowledge Distillation</strong><br>
+		Zheng Li, Xiang Li#, Lingfeng Yang, Borui Zhao, Renjie Song, Lei Luo, Jun Li, Jian Yang#<br>
+                in AAAI, 2023<br>
+                <a href="https://arxiv.org/pdf/2211.16231.pdf">[Paper]</a>
+                <a href="https://github.com/implus/implus.github.io/tree/master/resources/bibtex/AAAI_2023_CTKD.txt">[BibTex]</a>
+                <a href="https://github.com/zhengli97/CTKD">[Code]</a><img
+                        src="https://img.shields.io/github/stars/zhengli97/CTKD?style=social"/>
+                <br>
+                <alert>
+        CTKD organizes the distillation task from easy to hard through a dynamic and learnable temperature. The temperature is learned during the student’s training process with a reversed gradient that aims to maximize the distillation loss in an adversarial manner.
+		</alert>
+            </div>
+            <div class="spanner"></div>
+        </div>
+  <h2></h2>
+
   <h2>2022</h2>
 	<div><img src="./resources/paper_icon/NeurIPS_2022_RM.png" width=500 height=300 />
             <div><strong>RecursiveMix: Mixed Learning with History</strong><br>
