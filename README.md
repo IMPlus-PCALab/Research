@@ -10,7 +10,7 @@ This repo holds the most research projects of our lab.
 		Zheng Li, Xiang Li#, Lingfeng Yang, Borui Zhao, Renjie Song, Lei Luo, Jun Li, Jian Yang#<br>
                 in AAAI, 2023<br>
                 <a href="https://arxiv.org/pdf/2211.16231.pdf">[Paper]</a>
-                <a href="https://github.com/implus/implus.github.io/tree/master/resources/bibtex/AAAI_2023_CTKD.txt">[BibTex]</a>
+                <a href="./resources/bibtex/AAAI_2023_CTKD.txt">[BibTex]</a>
                 <a href="https://github.com/zhengli97/CTKD">[Code]</a><img
                         src="https://img.shields.io/github/stars/zhengli97/CTKD?style=social"/>
                 <br>
