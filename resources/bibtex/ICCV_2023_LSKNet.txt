@@ -1,0 +1,7 @@
+@InProceedings{li2023large,
+    title={Large Selective Kernel Network for Remote Sensing Object Detection}, 
+    author={Yuxuan Li and Qibin Hou and Zhaohui Zheng and Ming-Ming Cheng and Jian Yang and Xiang Li},
+    booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+    month = {October},
+    year = {2023}
+}

@@ -10,7 +10,7 @@ This repo holds the most research projects of our lab.
 		Yuxuan Li, Qibin Hou, Zhaohui Zheng, Ming-Ming Cheng, Jian Yang#, Xiang Li#<br>
                 in ICCV, 2023<br>
                 <a href="https://arxiv.org/pdf/2303.09030.pdf">[Paper]</a>
-                <a href="./resources/bibtex/AAAI_2023_CTKD.txt">[BibTex]</a>
+                <a href="./resources/bibtex/ICCV_2023_LSKNet.txt">[BibTex]</a>
                 <a href="https://github.com/zcablii/LSKNet">[Code]</a><img
                         src="https://img.shields.io/github/stars/zcablii/LSKNet?style=social"/>
                 <br>
