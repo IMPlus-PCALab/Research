@@ -5,6 +5,27 @@ This repo holds the most research projects of our lab.
 
 <div>
   <h2>2023</h2>
+        <div><img src="./resources/paper_icon/ICCV_2023_LSKNet.png" width=730 height=200 />
+            <div><strong>Large Selective Kernel Network for Remote Sensing Object Detection</strong><br>
+		Yuxuan Li, Qibin Hou, Zhaohui Zheng, Ming-Ming Cheng, Jian Yang#, Xiang Li#<br>
+                in ICCV, 2023<br>
+                <a href="https://arxiv.org/pdf/2303.09030.pdf">[Paper]</a>
+                <a href="./resources/bibtex/AAAI_2023_CTKD.txt">[BibTex]</a>
+                <a href="https://github.com/zcablii/LSKNet">[Code]</a><img
+                        src="https://img.shields.io/github/stars/zcablii/LSKNet?style=social"/>
+                <br>
+                <a href="https://paperswithcode.com/sota/object-detection-in-aerial-images-on-dota-1?p=large-selective-kernel-network-for-remote"><img
+                src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/large-selective-kernel-network-for-remote/object-detection-in-aerial-images-on-dota-1"/></a>
+                <a href="https://paperswithcode.com/sota/object-detection-in-aerial-images-on-hrsc2016?p=large-selective-kernel-network-for-remote"><img
+                src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/large-selective-kernel-network-for-remote/object-detection-in-aerial-images-on-hrsc2016"/></a>
+                <br>
+                <alert>
+        LSKNet can dynamically adjust its large spatial receptive field to better model the ranging context of various categories of objects in remote sensing scenarios
+		</alert>
+            </div>
+            <div class="spanner"></div>
+        </div>
+ <h2></h2>
 	<div><img src="./resources/paper_icon/AAAI_2023_CTKD.png" width=500 height=216 />
             <div><strong>Curriculum Temperature for Knowledge Distillation</strong><br>
 		Zheng Li, Xiang Li#, Lingfeng Yang, Borui Zhao, Renjie Song, Lei Luo, Jun Li, Jian Yang#<br>
