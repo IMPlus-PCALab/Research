@@ -11,6 +11,8 @@ This repo holds the most research projects of our lab.
                 in ICCV, 2023<br>
                 <a href="https://arxiv.org/pdf/2303.09030.pdf">[Paper]</a>
                 <a href="./resources/bibtex/ICCV_2023_LSKNet.txt">[BibTex]</a>
+                <a href="https://www.bilibili.com/video/BV1Fc411y7D4/?spm_id_from=333.999.0.0&vd_source=5104238e9227b73c64ac2ac51092afcd">[Demo Video]</a>
+                <a href="https://www.bilibili.com/video/BV1yc411Q7Pb/?vd_source=b787fb942d4c0010351265dbce7646d3">[Report/Forum]</a>
                 <a href="https://github.com/zcablii/LSKNet">[Code]</a><img
                         src="https://img.shields.io/github/stars/zcablii/LSKNet?style=social"/>
                 <br>
